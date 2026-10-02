@@ -3,7 +3,7 @@
 **Productivity meets Italian cuisine** – A beautiful Pomodoro timer with task management, reward system, and focus music.
 
 ##  Live Demo
-[https://itachiyann24.github.io/tortellini-timer](https://itachiyann24.github.io/tortellini-timer)
+[https://Laurita003.github.io/Tortellini-Timer/](https://Laurita003.github.io/Tortellini-Timer/)
 
 ## Features
 
@@ -61,9 +61,10 @@ Deployed with **GitHub Pages**:
 - [ ] More music tracks
 - [ ] Dark/light theme toggle
 
-##  Author
-**Yann Jenner Lemogoun**
-- GitHub: [@Itachiyann24](https://github.com/Itachiyann24)
-- Portfolio: [portfolio.itachiyann.de](https://portfolio.itachiyann.de)
+## Author
 
+Laurita Elsa
+* GitHub: [@Laurita003](https://github.com/Laurita003)
+
+*Co-developed with Yann Jenner Lemogoun (@Itachiyann24)*
 
