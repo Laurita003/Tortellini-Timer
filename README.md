@@ -65,3 +65,5 @@ Deployed with **GitHub Pages**:
 
 Laurita Elsa
 * GitHub: [@Laurita003](https://github.com/Laurita003)
+
+*Co-developed with Yann Jenner Lemogoun (@Itachiyann24)*
